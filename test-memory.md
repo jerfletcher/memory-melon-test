@@ -1,4 +1,5 @@
 ---
+key: test-multi-source
 title: Multi-Source Test Memory
 kind: reference
 tags: [test, multi-source]
