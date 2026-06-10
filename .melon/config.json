@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "memorySources": [
+    {
+      "name": "Memory-md",
+      "url": "https://github.com/jerfletcher/memory-md",
+      "dir": "/data/.melon/repos/Memory-md"
+    }
+  ]
+}

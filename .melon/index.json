@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "titleToKey": {
+    "multi-source test memory": "test-multi-source"
+  },
+  "keyToTitle": {
+    "test-multi-source": "Multi-Source Test Memory"
+  },
+  "keyToTags": {
+    "test-multi-source": [
+      "test",
+      "multi-source"
+    ]
+  },
+  "tagToKeys": {
+    "multi-source": [
+      "test-multi-source"
+    ],
+    "test": [
+      "test-multi-source"
+    ]
+  },
+  "kindToKeys": {
+    "reference": [
+      "test-multi-source"
+    ]
+  },
+  "projectToKeys": {},
+  "sourceToKeys": {},
+  "statusToKeys": {},
+  "updatedAtByKey": {},
+  "createdAtByKey": {},
+  "keyToKind": {
+    "test-multi-source": "reference"
+  },
+  "keyToProject": {},
+  "keyToSource": {},
+  "keyToStatus": {}
+}
